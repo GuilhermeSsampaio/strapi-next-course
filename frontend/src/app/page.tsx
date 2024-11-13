@@ -1,4 +1,4 @@
-import { HeroSection } from "@/components/ui/custom/HeroSection";
+import { HeroSection } from "@/components/custom/HeroSection";
 import { flattenAttributes } from "@/lib/utils";
 import qs from "qs";
 
